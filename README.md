@@ -17,7 +17,7 @@
 <p align="center">
   <sub>$\color{#501a71}{the names gloss}$</sub>
 <p align="center">
-  <sub>$\color{#ff0093}{ㅤofftab . c+h enc . ask 2 moot !}$</sub>
+  <sub>$\color{#ff0093}{ㅤofftab ㅤ.ㅤ c+hㅤenc ㅤ.ㅤ askㅤ2ㅤmootㅤ!}$</sub>
   <p align="center">
   <sub>$\color{#501a71}{main : @biteofme }$</sub>
 
