@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=biteofme&label=bats&labelColor=%23501a71&countColor=%23ff0797&style=flat">
 
-<!--
-**lipglosstears/lipglosstears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <p align="center">
+  <img width="100" height="100" src="https://imglink.cc/cdn/rrSbIiCFRw.webp">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>$\color{#501a71}{glossㅤ<3}$</sub>
+<p align="center">
+  <sub>$\color{#ff0093}{ㅤlipgloss obsessedㅤ◡◡ .}$</sub>
+
+  <p align="center">
+  <img width="250" height="250" src="https://imglink.cc/cdn/SeFAHksK1v.webp">
+</p>
+
+<p align="center">
+  <sub>$\color{#501a71}{the names gloss}$</sub>
+<p align="center">
+  <sub>$\color{#ff0093}{ㅤofftab . c+h enc . ask 2 moot !}$</sub>
+  <p align="center">
+  <sub>$\color{#501a71}{main : @biteofme }$</sub>
+
+<details>
+    <summary><sub><a </sub>${\textsf{\color{#ff0093}friends:}}$ </summary>
+    <p> <p><a href="https://github.com/CrypticClues">CrypticClues</a> <a href="https://github.com/angelphelps">angelphelps</a> <a href="https://github.com/demonbell3">demonbell3</a> <a href="https://github.com/salamiimeow">salamiimeow</a> <a href="https://github.com/uv-light">uv-light</a>
+    </details>
