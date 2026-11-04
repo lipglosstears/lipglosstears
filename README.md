@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=biteofme&label=bats&labelColor=%23501a71&countColor=%23ff0797&style=flat">
-
+<img src="https://api.visitorbadge.io/api/visitors?path=biteofme&label=glossettes&labelColor=%23501a71&countColor=%23ff0797&style=flat">
 
   <p align="center">
   <img width="100" height="100" src="https://imglink.cc/cdn/rrSbIiCFRw.webp">
