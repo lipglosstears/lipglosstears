@@ -8,7 +8,7 @@
 <p align="center">
   <sub>$\color{#501a71}{glossㅤ<3}$</sub>
 <p align="center">
-  <sub>$\color{#ff0093}{ㅤlipgloss obsessedㅤ◡◡ .}$</sub>
+  <sub>$\color{#ff0093}{ㅤlipglossㅤ obsessedㅤ◡◡ .}$</sub>
 
   <p align="center">
   <img width="250" height="250" src="https://imglink.cc/cdn/SeFAHksK1v.webp">
