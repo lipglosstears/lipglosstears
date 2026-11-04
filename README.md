@@ -24,3 +24,9 @@
     <summary><sub><a </sub>${\textsf{\color{#ff0093}friends:}}$ </summary>
     <p> <p><a href="https://github.com/CrypticClues">CrypticClues</a> <a href="https://github.com/angelphelps">angelphelps</a> <a href="https://github.com/demonbell3">demonbell3</a> <a href="https://github.com/salamiimeow">salamiimeow</a> <a href="https://github.com/uv-light">uv-light</a>
     </details>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31644766y7alkzyhtoou2z2upqpi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=47265b&bar_color_cover=false">
+  </a>
+</p>
