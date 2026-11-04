@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <sub>$\color{#501a71}{the names gloss}$</sub>
+  <sub>$\color{#501a71}{theㅤnamesㅤgloss}$</sub>
 <p align="center">
   <sub>$\color{#ff0093}{ㅤofftab ㅤ.ㅤ c+hㅤenc ㅤ.ㅤ askㅤ2ㅤmootㅤ!}$</sub>
   <p align="center">
